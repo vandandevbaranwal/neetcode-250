@@ -6,7 +6,7 @@ NeetCode 150 roadmap, written in Python.
 ## About
 
 I'm Vandan Dev Baranwal, an Electrical Engineering student at IET Lucknow.
-This repository documents my DSA journey — one problem a day, every solution
+This repository documents my DSA journey one problem a day, every solution
 annotated with the pattern used and the reasoning behind it.
 
 ## Structure
@@ -29,4 +29,4 @@ Each solution is organized by topic and includes:
 - 1 problem daily, following NeetCode order
 - 20-25 minutes solo attempt before referencing hints
 - Every solution pushed with a pattern comment on top
-- Patterns over memorization — always
+- Patterns over memorization always
